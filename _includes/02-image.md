@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Tux, the Linux mascot](/assets/images/tux.png)
